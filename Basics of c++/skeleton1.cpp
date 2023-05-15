@@ -11,7 +11,7 @@ return 0;
 //First program
 
 #include <iostream>
-using namespace std;//for output
+using namespace std;//for output and input
 
 int main(){
 
