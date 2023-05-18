@@ -19,3 +19,4 @@ else
     cout<<"not a palindrome";
     return 0;
 }
+//we can aslo do while loop
