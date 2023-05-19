@@ -34,3 +34,29 @@ int main()
     }
     return 0;
 }
+
+//inputing and accessing 
+#include <iostream>
+using namespace std;
+int main()
+{
+
+    int A[2][3];
+    for(auto& x:A)//rows
+    {
+        for(auto& y:x)//colums
+        {
+            cin>>y;
+        }
+        cout<<endl;
+    }
+    for(auto& x:A)//rows
+    {
+        for(auto& y:x)//colums
+        {
+            cout<<y<<" ";
+        }
+        cout<<endl;
+    }
+    return 0;
+}
