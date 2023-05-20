@@ -9,11 +9,13 @@ for each - for collections
 */
 
 
+
 //skeleton - while(check and execute)
 
 while(<condtion>)
 {
   process;
+  
 }
 
 //skeleton - Do-while(execute once and then it check)
