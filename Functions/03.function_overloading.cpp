@@ -1,4 +1,5 @@
-// Having same function but different paramter is known as function overloading 
+// Having same function but different parameter is known as function overloading 
+//we have use same function but parameter  should be different
   #include<iostream>
 
   using namespace std;
